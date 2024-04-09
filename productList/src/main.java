@@ -10,7 +10,10 @@
 public class main {
 
     /**
-     * @param args the command line arguments
+     --Color-Primario:0A1D56;
+     * --Color-secundario:492E87;
+     * --Color-terciario:37B5B6;
+     * --Highlights:F2F597;
      */
     public static void main(String[] args) {
         // TODO code application logic here
