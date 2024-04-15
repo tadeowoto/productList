@@ -1,4 +1,4 @@
-package javaapplication46;
+package entidades;
 
 public class Producto {
     

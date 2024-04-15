@@ -1,4 +1,4 @@
-package javaapplication46;
+package entidades;
 public class TP5 {
 //Crea una aplicación GUI en Java que gestione una lista de productos. La interfaz debe contener los siguientes elementos:
 //Un ComboBox (JComboBox) que permita al usuario seleccionar una categoría de producto de una lista predefinida (por ejemplo, electrónica, ropa, alimentos, etc.).
